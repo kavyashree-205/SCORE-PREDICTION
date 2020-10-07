@@ -1,6 +1,6 @@
 *****SCORE PREDICTION*****
 
-DATA CAN BE FOUND AT : https://raw.githubusercontent.com/AdiPersonalWorks/Random/master/student_scores%20-%20student_scores.csv
+DATA CAN BE FOUND AT : http://bit.ly/w-data
 
 
 PROBLEM STATEMENT:
