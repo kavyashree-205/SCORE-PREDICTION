@@ -1,5 +1,7 @@
 *****SCORE PREDICTION*****
 
+DATA CAN BE FOUND AT : https://raw.githubusercontent.com/AdiPersonalWorks/Random/master/student_scores%20-%20student_scores.csv
+
 
 PROBLEM STATEMENT:
 Predict the percentage of marks of an student based on the number of
